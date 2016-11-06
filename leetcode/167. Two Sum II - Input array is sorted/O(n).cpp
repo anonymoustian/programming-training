@@ -1,4 +1,4 @@
-class Solution {
+ï»¿class Solution {
 public:
     vector<int> twoSum(vector<int>& numbers, int target) {
         int l = 0, h = numbers.size() - 1;
@@ -11,7 +11,7 @@ public:
 };
 
 /**
-vector³õÊ¼»¯·½·¨£º
+vectoråˆå§‹åŒ–æ–¹æ³•:
 vector<int> a;
 vector<int> a(10);
 vector<int> a(10, -1);
